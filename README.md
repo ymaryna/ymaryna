@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
 
+<<<<<<< HEAD
 ### ✨ Languages I use
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./img/javascript.svg" alt="javascritp" width="40" height="40"/></a>
@@ -65,6 +66,12 @@ Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am 
 <p>
     
     
+=======
+### ✔️ I'm currently learning
+<p>
+  <img src="./img/python.svg" alt="python" width="40" height="40"/>
+  <img src="./img/django.svg" alt="python" width="40" height="40"/>
+>>>>>>> c7d84332e4482b61afd2ce01e5a40257b5d023d5
 </p>
 
 ### 😍 What i like to do:
