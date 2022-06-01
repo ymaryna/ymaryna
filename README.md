@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
 
 ### ✔️ I'm currently learning
-<img src="./img/python.svg" alt="python" width="40" height="40"/>
-<img src="./img/django.svg" alt="python" width="40" height="40"/>
+<p><img src="./img/python.svg" alt="python" width="40" height="40"/><img src="./img/django.svg" alt="python" width="40" height="40"/></p>
 
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
