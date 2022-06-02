@@ -21,6 +21,10 @@ Welcome to my GitHub! I'm Marina Cid, a Frontend developer and future Fullstack.
 ### ✨ Languages I use
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./img/javascript.svg" alt="javascritp" width="40" height="40"/></a>
+</p>
+
+### ✨ Languages I've worked with
+<p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="./img/python.svg" alt="python" width="40" height="40"/></a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="./img/php.svg" alt="php" width="40" height="40"/></a>
 </p>
@@ -69,6 +73,6 @@ Welcome to my GitHub! I'm Marina Cid, a Frontend developer and future Fullstack.
 <!-- Enter the Francisco José de Caldas district university at a very low cost -->
 
 ### 🛠 Interested in:
-- Fronted, games, design
+- Fronted, games, sports, design
 
 
