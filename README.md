@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- Welcome to my GitHub! I'm Jean Carlos, a systems engineering student. When I am not studying or programming, I play some music with my electric guitar, I like to read about personal and collective improvement, I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. -->
+Welcome to my GitHub! I'm Marina Cid, a Frontend developer and future Fullstack. When I am not searching for new knoledge or programming, I'm playing videogames or playing some sports with my friends. I love to know more and more about this wonderfull developers world 😄
 
 ### ✨ Languages I use
 <p>
@@ -56,30 +56,19 @@ Here are some ideas to get you started:
     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./img/github.svg" alt="github" width="40" height="40"/></a>
 </p>
 
-### ✨ Backend as a Service(BaaS)
-<p>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="./img/heroku.svg" alt="heroku" width="40" height="40"/></a>
-</p>
-
-### ✔️ Some of the technologies I have worked with
-<p>
-    
-    
-</p>
-
 ### 😍 What i like to do:
-<!-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!! -->
+- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
-### 💡 Goals for 2020:
-<!-- Finish my first app on android and publish it on play store
-- Learn the basics of JavaScript, TypeScript
-- Become skilled in Java, kotlin
-- Grow as a person -->
+### 💡 Goals for 2022:
+- Keep growing as a developer
+- Keep learning about technology
+- Become skilled in MERN (MongoDB, Express, React, Nodejs)
+- Grow as a person :)
 
-### ⚡ Relevant achievement
+### ⚡ My persona projects
 <!-- Enter the Francisco José de Caldas district university at a very low cost -->
 
 ### 🛠 Interested in:
-<!-- Desktop, mobile, fronted, devOps, games, designer. -->
+- Fronted, games, design
 
 
