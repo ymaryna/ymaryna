@@ -65,7 +65,7 @@ Welcome to my GitHub! I'm Marina Cid, a Frontend developer and future Fullstack.
 - Become skilled in MERN (MongoDB, Express, React, Nodejs)
 - Grow as a person :)
 
-### ⚡ My persona projects
+### ⚡ My personal projects
 <!-- Enter the Francisco José de Caldas district university at a very low cost -->
 
 ### 🛠 Interested in:
