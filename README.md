@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Welcome to my GitHub! I'm Marina Cid, a Frontend developer and future Fullstack. When I am not searching for new knoledge or programming, I'm playing videogames or playing some sports with my friends. I love to know more and more about this wonderfull developers world 😄
+Welcome to my GitHub! I'm Marina Cid, a Frontend developer and future Fullstack. When I am not searching for new knowledge or programming, I'm playing videogames or playing some sports with my friends. I love to know more and more about this wonderfull developers world 😄
 
 ### ✨ Languages I use
 <p>
