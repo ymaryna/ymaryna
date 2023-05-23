@@ -70,7 +70,7 @@ Welcome to my GitHub! I'm Marina Cid, a Frontend developer and future Fullstack.
 - Grow as a person :)
 
 ### ⚡ My personal projects
-- You can check my latest projects on my website! https://marinacid.es/
+- You can check my latest projects on my website <a href="https://marinacid.es/" target="_blank">marinacid.es</a>!
 
 ### 🛠 Interested in:
 - Fronted, games, sports, design
